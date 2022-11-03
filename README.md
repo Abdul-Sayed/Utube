@@ -1,6 +1,8 @@
 # Utube
 
-## Video Player application made with React, React Router V6, Material UI, and Rapid API to fetch YouTube video data
+## Video Player application made with React, React Router V6, Material UI, and Rapid API to fetch YouTube video data.
+
+`Live link: https://reactutube.netlify.app/`
 
 ### Pages and Routes
 
