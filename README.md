@@ -5,8 +5,6 @@
 `Live link: https://reactutube.netlify.app/`  
 `API: https://rapidapi.com/ytdlfree/api/youtube-v31/`
 
-`Live link: https://reactutube.netlify.app/`
-
 ### Pages and Routes
 
 ```
